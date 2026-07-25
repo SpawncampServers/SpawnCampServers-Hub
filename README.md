@@ -1,8 +1,6 @@
-# SpawnCampServers-Hub
-Connect info, resource pack, and links for SpawnCamp Servers
 # SpawnCamp Servers — Minecraft
 
-![SpawnCamp Servers](https://raw.githubusercontent.com/SpawncampServers/SpawnCamp-Resource-Packs/main/SpawnCampServer_Background.png)
+![SpawnCamp Servers](assets/background.png)
 
 A crossplay Minecraft server — Java and Bedrock players welcome, side by side.
 
