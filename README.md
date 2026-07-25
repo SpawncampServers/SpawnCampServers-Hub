@@ -8,7 +8,7 @@ A crossplay Minecraft server — Java and Bedrock players welcome, side by side.
 
 **Java Edition**
 ```
-spawncampservers.dpdns.org:25565
+spawncampservers.dpdns.org
 ```
 
 **Bedrock Edition**
