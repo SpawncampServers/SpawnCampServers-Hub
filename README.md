@@ -21,7 +21,7 @@ Port: 19132
 
 ## Join the Community
 
-- 💬 Discord: *[[SpawnCampServers Discord]https://discord.gg/Xbw5vzkcd]*
+- 💬 Discord: *[[[SpawnCampServers Discord]](https://discord.gg/Xbw5vzkcd)]*
 
 ## Resource Pack
 
