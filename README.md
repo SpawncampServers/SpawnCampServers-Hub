@@ -21,7 +21,7 @@ Port: 19132
 
 ## Join the Community
 
-- 💬 Discord: *[add your invite link here]*
+- 💬 Discord: *[[add your invite link here](https://discord.gg/Xbw5vzkcd)]*
 
 ## Resource Pack
 
